@@ -1,0 +1,5 @@
+name,alias,seats,isense,base_price,img_room
+Sala Kubric,Sala Blu,100,1,10.00,/images/Kubrik.jpg
+Sala Spilelberg,Sala Verde,120,0,10.00,/images/Spilberg.jpg
+Sala Hitchcock,Sala Gialla,50,1,10.00,/images/Hitchcock.jpg
+Sala Miyazaki,Sala Rossa,50,1,10.00,/images/Miyazaki.jpg
